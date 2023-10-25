@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/myarbaan/static/css/main.a54ebc9b.css",
+    "main.js": "/myarbaan/static/js/main.ea3abd3f.js",
+    "static/js/787.cd277949.chunk.js": "/myarbaan/static/js/787.cd277949.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/myarbaan/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/myarbaan/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "index.html": "/myarbaan/index.html",
+    "main.a54ebc9b.css.map": "/myarbaan/static/css/main.a54ebc9b.css.map",
+    "main.ea3abd3f.js.map": "/myarbaan/static/js/main.ea3abd3f.js.map",
+    "787.cd277949.chunk.js.map": "/myarbaan/static/js/787.cd277949.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a54ebc9b.css",
+    "static/js/main.ea3abd3f.js"
+  ]
+}
